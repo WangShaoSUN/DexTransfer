@@ -133,7 +133,7 @@ python vis_dataset_hand.py --robot inspire --idx 50
 ### Supported Robots
 
 *   **`shadow`**: Shadow Dexterous Hand (High DoF)
-*   **`schunk`**: Schunk SIH Hand
+*   **`schunk`**: Schunk  Hand
 *   **`inspire`**: Inspire Hand
 ## 📄 License
 
